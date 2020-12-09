@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+textarea {
+    width: 48%;
+    min-height: 300px;
+    overflow: scroll;
+    margin: auto;
+    display: inline-block;
+    background: #f4f4f9;
+    outline: none;
+    font-family: Courier, sans-serif;
+    font-size: 13px;
+}
+
+iframe {
+    width: 90%;
+    min-height: 355px;
+    position: relative;
+    margin: auto;
+    margin-top: 24px;
+    border: dashed;
+    border-width: 2px;
+}
