@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+p {
+    color: #ff0000;
+    font-size: 20px;
+}
+
+textarea {
+    width: 48%;
+    min-height: 300px;
+    overflow: scroll;
+    margin: auto;
+    display: inline-block;
+    background: #f4f4f9;
+    outline: none;
+    font-family: Courier, sans-serif;
+    font-size: 13px;
+}
+
+iframe {
+    width: 90%;
+    min-height: 355px;
+    position: relative;
+    margin: auto;
+    margin-top: 24px;
+    border: dashed;
+    border-width: 4px;
+    background: #ffffff;
+    border-color: #00ff00;
+}

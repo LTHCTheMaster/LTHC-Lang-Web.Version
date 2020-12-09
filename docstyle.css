@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: #b8b7b7;
+    font-size: 18px;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+h2 {
+    color: #bbbb00;
+}
+
+p {
+    color: #ffffff;
+}
